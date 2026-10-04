@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.*
+!.env.example
+
+# Temporary and uploaded student answer sheets / private student data
+uploads/
+temp/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+data/uploads/
+!data/evaluations_db.json

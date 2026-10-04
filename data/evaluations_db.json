@@ -1,0 +1,635 @@
+{
+  "evaluations": [
+    {
+      "id": "eval-real-1791093789200",
+      "isDemo": false,
+      "student": {
+        "id": "student-1791093789200",
+        "name": "Priya Nair",
+        "rollNo": 11,
+        "classSection": "8-A"
+      },
+      "syllabus": {
+        "subject": "Science",
+        "examTitle": "Mid-Term Examination",
+        "topic": "CBSE Class 8 Science Syllabus",
+        "units": [
+          "Core Curriculum Units",
+          "Unit Practice"
+        ],
+        "importantConcepts": [
+          "Handwriting understanding",
+          "Conceptual grading",
+          "Teacher ground truth"
+        ]
+      },
+      "answerSheet": {
+        "fileName": "Priya_Nair_Handwritten_Sheet.pdf",
+        "fileSize": "2.4 MB",
+        "pageCount": 4,
+        "fileType": "application/pdf",
+        "uploadedAt": "2026-10-04T06:03:09.200Z",
+        "handwritingStyleDetected": "Real handwritten paper (Authentic cursive, slight rightward slant, uneven spacing, margin corrections)"
+      },
+      "questions": [
+        {
+          "qNum": 1,
+          "question": "Explain the concept of crop rotation and give two main benefits of practising it.",
+          "topic": "Crop Production & Management",
+          "maxMarks": 5,
+          "studentAnswer": "Crop rotation is the method of planting different crops one after another on the same field. It helps replenish soil nitrogen naturally with legumes and breaks pest reproductive cycles.",
+          "aiMark": 4.5,
+          "aiConfidence": 92,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Strong conceptual understanding. Both primary agricultural benefits accurately described.",
+          "correctConcepts": [
+            "Alternating crop varieties",
+            "Soil nitrogen replenishment",
+            "Pest cycle disruption"
+          ],
+          "missingConcepts": [],
+          "incorrectConcepts": [],
+          "teacherMark": 4.5,
+          "teacherFeedback": "Initial evaluation by AI; awaiting teacher review.",
+          "teacherValidated": false
+        },
+        {
+          "qNum": 2,
+          "question": "State Newton's third law of motion and illustrate it with two real-world examples.",
+          "topic": "Force and Pressure",
+          "maxMarks": 4,
+          "studentAnswer": "Newton's third law says whenever one object exerts force on another, the other exerts an equal and opposite force back. Example: when you step out of a boat onto a dock, your foot pushes the boat backward while the boat pushes you forward onto the dock.",
+          "aiMark": 3.5,
+          "aiConfidence": 88,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Law stated correctly with one vivid everyday action-reaction pair. Second example was missing.",
+          "correctConcepts": [
+            "Equal and opposite reaction pair",
+            "Boat dock departure example"
+          ],
+          "missingConcepts": [
+            "Second distinct physical example"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3.5,
+          "teacherFeedback": "Initial evaluation by AI; awaiting teacher review.",
+          "teacherValidated": false
+        },
+        {
+          "qNum": 3,
+          "question": "What is ignition temperature? Why is it dangerous to store kerosene near an open hearth?",
+          "topic": "Combustion and Flame",
+          "maxMarks": 3,
+          "studentAnswer": "Ignition temperature is the minimum temperature at which a substance catches fire and continues burning. Kerosene has a very low ignition temperature so its vapors can ignite even from a stray spark from an open hearth.",
+          "aiMark": 3,
+          "aiConfidence": 91,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Complete definition and precise safety warning rationale.",
+          "correctConcepts": [
+            "Minimum temperature threshold",
+            "Vapor flash hazard in open vicinity"
+          ],
+          "missingConcepts": [],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Initial evaluation by AI; awaiting teacher review.",
+          "teacherValidated": false
+        },
+        {
+          "qNum": 4,
+          "question": "Draw and explain the ray diagram for reflection of light from a smooth plane surface.",
+          "topic": "Light",
+          "maxMarks": 5,
+          "studentAnswer": "Ray diagram sketch with angle i and angle r measured from the normal line. Law states angle of incidence = angle of reflection.",
+          "aiMark": 4,
+          "aiConfidence": 58,
+          "confidenceLevel": "Low",
+          "needsTeacherReview": true,
+          "aiFeedback": "⚠ Low Confidence — Teacher Review Required: Diagram sketch lines are faint and ray arrow directions are ambiguous. Human inspection needed.",
+          "correctConcepts": [
+            "Normal line perpendicular",
+            "Law i = r noted"
+          ],
+          "missingConcepts": [
+            "Clean directional arrowheads on rays",
+            "Polished surface hatchmarks"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 4.5,
+          "teacherFeedback": "Inspected diagram directly; student ray arrowheads are properly drawn. Awarded 4.5.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 5,
+          "question": "Distinguish between metals and non-metals based on physical properties.",
+          "topic": "Materials: Metals and Non-Metals",
+          "maxMarks": 5,
+          "studentAnswer": "Metals are malleable (can be hammered into thin sheets), ductile (can be pulled into wires), and conduct heat/electricity. Non-metals are brittle and do not conduct electricity.",
+          "aiMark": 4.5,
+          "aiConfidence": 84,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Good structured contrast across core mechanical and electrical properties.",
+          "correctConcepts": [
+            "Malleability and ductility",
+            "Electrical/thermal conductivity contrast",
+            "Brittleness of non-metals"
+          ],
+          "missingConcepts": [
+            "Sonorous sound property"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 4.5,
+          "teacherFeedback": "Initial evaluation by AI; awaiting teacher review.",
+          "teacherValidated": false
+        },
+        {
+          "qNum": 6,
+          "question": "Describe the process of binary fission in Amoeba with key stages.",
+          "topic": "Reproduction in Animals",
+          "maxMarks": 4,
+          "studentAnswer": "In binary fission, the Amoeba cell nucleus lengthens and splits into two parts. After that, the cytoplasm pinches inward in the middle to create two separate child amoebae.",
+          "aiMark": 3,
+          "aiConfidence": 76,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Chronological sequence of binary fission clearly explained.",
+          "correctConcepts": [
+            "Nuclear division first",
+            "Cytoplasmic cleavage furrow"
+          ],
+          "missingConcepts": [
+            "Daughter cell genetic identity"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Initial evaluation by AI; awaiting teacher review.",
+          "teacherValidated": false
+        },
+        {
+          "qNum": 7,
+          "question": "What is acid rain? Mention its harmful effects on historical monuments and soil.",
+          "topic": "Pollution of Air and Water",
+          "maxMarks": 4,
+          "studentAnswer": "Acid rain happens when sulfur dioxide and nitrogen oxide gases dissolve in clouds. It dissolves limestone and marble monuments like Taj Mahal and makes farmland too acidic.",
+          "aiMark": 3,
+          "aiConfidence": 70,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Clear real-world understanding with Taj Mahal corrosion accurately identified.",
+          "correctConcepts": [
+            "SO2 and NOx precursors",
+            "Calcium carbonate dissolution",
+            "Soil acidification"
+          ],
+          "missingConcepts": [
+            "Specific acid species (sulfuric & nitric)"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Initial evaluation by AI; awaiting teacher review.",
+          "teacherValidated": false
+        }
+      ],
+      "accuracyMetrics": {
+        "totalAiMarks": 25.5,
+        "totalTeacherMarks": 26,
+        "totalMaxMarks": 30,
+        "difference": 0.5,
+        "exactAgreementPct": 85.7,
+        "mae": 0.07,
+        "overallMarkAgreementPct": 98.6
+      },
+      "status": "Needs Teacher Review",
+      "createdAt": "2026-10-04T06:03:09.200Z",
+      "updatedAt": "2026-10-04T06:03:19.139Z"
+    },
+    {
+      "id": "eval-demo-1",
+      "isDemo": true,
+      "student": {
+        "id": "aarav",
+        "name": "Aarav Sharma",
+        "rollNo": 1,
+        "classSection": "8-A"
+      },
+      "syllabus": {
+        "subject": "Science",
+        "examTitle": "Mid-Term Examination",
+        "topic": "Crop Production, Motion, Combustion, Light, Reproduction",
+        "units": [
+          "Agricultural Practices",
+          "Laws of Motion",
+          "Combustion & Flames",
+          "Reflection of Light",
+          "Cell Structure"
+        ],
+        "importantConcepts": [
+          "Crop rotation",
+          "Action-reaction pair",
+          "Ignition temperature",
+          "Angles of incidence/reflection"
+        ]
+      },
+      "answerSheet": {
+        "fileName": "Aarav_Sharma_Roll01_Class8A.pdf",
+        "fileSize": "2.8 MB",
+        "pageCount": 4,
+        "fileType": "application/pdf",
+        "uploadedAt": "2026-09-20T10:30:00Z",
+        "handwritingStyleDetected": "Neat cursive, upright spacing, clearly labeled answer headers"
+      },
+      "questions": [
+        {
+          "qNum": 1,
+          "question": "Explain the concept of crop rotation and give two main benefits of practising it.",
+          "topic": "Crop Production & Management",
+          "maxMarks": 5,
+          "studentAnswer": "Crop rotation is the agricultural practice of growing different crops alternately in sequential seasons on the same piece of land. Benefit 1: Preserves soil fertility by rotating legumes to restore nitrogen. Benefit 2: Prevents buildup of pests and weeds.",
+          "aiMark": 5,
+          "aiConfidence": 95,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Flawless definition and both benefits clearly stated with accurate biological mechanism.",
+          "correctConcepts": [
+            "Sequential crop rotation",
+            "Soil nitrogen replenishment",
+            "Pest life-cycle disruption"
+          ],
+          "missingConcepts": [],
+          "incorrectConcepts": [],
+          "teacherMark": 5,
+          "teacherFeedback": "Excellent conceptual clarity and neat handwriting.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 2,
+          "question": "State Newton's third law of motion and illustrate it with two real-world examples.",
+          "topic": "Force and Pressure",
+          "maxMarks": 4,
+          "studentAnswer": "To every action there is always an equal and opposite reaction. Examples: 1. Rocket propulsion: hot gases push downward and rocket moves upward. 2. Swimming: swimmer pushes water back and body moves forward.",
+          "aiMark": 4,
+          "aiConfidence": 92,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Accurate law formulation and two correct distinct action-reaction scenarios.",
+          "correctConcepts": [
+            "Equal and opposite reaction",
+            "Simultaneous forces",
+            "Propulsion & swimming examples"
+          ],
+          "missingConcepts": [],
+          "incorrectConcepts": [],
+          "teacherMark": 4,
+          "teacherFeedback": "Very good formulation.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 3,
+          "question": "What is ignition temperature? Why is it dangerous to store kerosene near an open hearth?",
+          "topic": "Combustion and Flame",
+          "maxMarks": 3,
+          "studentAnswer": "Ignition temperature is the lowest temperature at which a combustible substance catches fire. Kerosene has a relatively low ignition temperature, so vapors catch fire quickly near heat.",
+          "aiMark": 3,
+          "aiConfidence": 90,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Correct definition and logical safety explanation.",
+          "correctConcepts": [
+            "Lowest temperature to ignite",
+            "Low ignition threshold of kerosene",
+            "Vapor flash hazard"
+          ],
+          "missingConcepts": [],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Accurate and concise.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 4,
+          "question": "Draw and explain the ray diagram for reflection of light from a smooth plane surface.",
+          "topic": "Light",
+          "maxMarks": 5,
+          "studentAnswer": "Ray diagram drawn with incident ray, normal at point of incidence, and reflected ray. Stated angle of incidence equals angle of reflection (i = r).",
+          "aiMark": 4.5,
+          "aiConfidence": 88,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Diagram clean with rays clearly arrowed; 0.5 withheld for missing mirror backing hatch marks.",
+          "correctConcepts": [
+            "Ray directions arrowed",
+            "Normal drawn perpendicular",
+            "Law i = r stated"
+          ],
+          "missingConcepts": [
+            "Mirror silver backing hatch markings"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 4.5,
+          "teacherFeedback": "Good ray diagram, agree with 4.5.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 5,
+          "question": "Distinguish between metals and non-metals based on physical properties.",
+          "topic": "Materials: Metals and Non-Metals",
+          "maxMarks": 5,
+          "studentAnswer": "Metals are malleable (beaten into sheets), ductile (drawn into wires), good electrical conductors, and sonorous. Non-metals are brittle and poor conductors.",
+          "aiMark": 4.5,
+          "aiConfidence": 91,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "All key physical criteria tabulated correctly with accurate scientific terminology.",
+          "correctConcepts": [
+            "Malleability",
+            "Ductility",
+            "Thermal and electrical conductivity",
+            "Sonority"
+          ],
+          "missingConcepts": [
+            "Density comparison"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 4.5,
+          "teacherFeedback": "Well structured comparison table.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 6,
+          "question": "Describe the process of binary fission in Amoeba with key stages.",
+          "topic": "Reproduction in Animals",
+          "maxMarks": 4,
+          "studentAnswer": "Binary fission is asexual reproduction where mature cell nucleus elongates and divides into two, followed by cytoplasmic constriction producing two identical daughter amoebae.",
+          "aiMark": 4,
+          "aiConfidence": 93,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Chronological progression described: karyokinesis followed by cytokinesis.",
+          "correctConcepts": [
+            "Nuclear elongation",
+            "Cytoplasmic constriction",
+            "Identical daughter cells"
+          ],
+          "missingConcepts": [],
+          "incorrectConcepts": [],
+          "teacherMark": 4,
+          "teacherFeedback": "Clear understanding of the binary fission cycle.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 7,
+          "question": "What is acid rain? Mention its harmful effects on historical monuments and soil.",
+          "topic": "Pollution of Air and Water",
+          "maxMarks": 4,
+          "studentAnswer": "Acid rain is precipitation containing sulfur dioxide and nitrogen dioxide dissolved as sulfuric and nitric acid. Corrodes marble (marble cancer in Taj Mahal) and makes soil overly acidic for crops.",
+          "aiMark": 3.5,
+          "aiConfidence": 89,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Correct chemical origin and monument damage noted; aquatic ecosystem impact omitted.",
+          "correctConcepts": [
+            "SO2 and NO2 pollutant precursors",
+            "Acid formation",
+            "Taj Mahal marble corrosion"
+          ],
+          "missingConcepts": [
+            "Aquatic pH impact"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3.5,
+          "teacherFeedback": "Sound understanding.",
+          "teacherValidated": true
+        }
+      ],
+      "accuracyMetrics": {
+        "totalAiMarks": 28.5,
+        "totalTeacherMarks": 28.5,
+        "totalMaxMarks": 30,
+        "difference": 0,
+        "exactAgreementPct": 100,
+        "mae": 0,
+        "overallMarkAgreementPct": 100
+      },
+      "status": "Finalized",
+      "createdAt": "2026-09-20T10:35:00Z",
+      "updatedAt": "2026-09-20T11:00:00Z"
+    },
+    {
+      "id": "eval-demo-2",
+      "isDemo": true,
+      "student": {
+        "id": "vihaan",
+        "name": "Vihaan Reddy",
+        "rollNo": 7,
+        "classSection": "8-A"
+      },
+      "syllabus": {
+        "subject": "Science",
+        "examTitle": "Mid-Term Examination",
+        "topic": "Crop Production, Motion, Combustion, Light, Reproduction",
+        "units": [
+          "Agricultural Practices",
+          "Laws of Motion",
+          "Combustion & Flames",
+          "Materials"
+        ],
+        "importantConcepts": [
+          "Crop rotation",
+          "Newton's laws",
+          "Metals vs non-metals"
+        ]
+      },
+      "answerSheet": {
+        "fileName": "Vihaan_Reddy_Roll07_Scan_Page3_Artifact.pdf",
+        "fileSize": "3.1 MB",
+        "pageCount": 4,
+        "fileType": "application/pdf",
+        "uploadedAt": "2026-09-20T10:31:00Z",
+        "handwritingStyleDetected": "Slanted cursive, loose line spacing, light ink scan on page 3"
+      },
+      "questions": [
+        {
+          "qNum": 1,
+          "question": "Explain the concept of crop rotation and give two main benefits of practising it.",
+          "topic": "Crop Production & Management",
+          "maxMarks": 5,
+          "studentAnswer": "Crop rotation means changing crops every season on the farm. Benefit 1: Good for soil minerals. Benefit 2: Pests do not spread easily.",
+          "aiMark": 4,
+          "aiConfidence": 82,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Concept understood in conversational phrasing; specific biological terms omitted.",
+          "correctConcepts": [
+            "Crop alternation",
+            "Soil mineral conservation",
+            "Pest limitation"
+          ],
+          "missingConcepts": [
+            "Leguminous nitrogen fixation"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 4,
+          "teacherFeedback": "Good informal explanation.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 2,
+          "question": "State Newton's third law of motion and illustrate it with two real-world examples.",
+          "topic": "Force and Pressure",
+          "maxMarks": 4,
+          "studentAnswer": "Every action has equal and opposite reaction. Example: Gun recoils when bullet fired.",
+          "aiMark": 3,
+          "aiConfidence": 85,
+          "confidenceLevel": "High",
+          "needsTeacherReview": false,
+          "aiFeedback": "Standard law stated with one valid example (recoil); second example omitted.",
+          "correctConcepts": [
+            "Equal and opposite reaction",
+            "Gun recoil illustration"
+          ],
+          "missingConcepts": [
+            "Second real-world example"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Second example was missing, 3/4 is right.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 3,
+          "question": "What is ignition temperature? Why is it dangerous to store kerosene near an open hearth?",
+          "topic": "Combustion and Flame",
+          "maxMarks": 3,
+          "studentAnswer": "Ignition temperature is minimum heat to start burning. Kerosene catches fire fast because temperature is low.",
+          "aiMark": 2.5,
+          "aiConfidence": 75,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Sufficient basic grasp.",
+          "correctConcepts": [
+            "Minimum temperature requirement",
+            "Low ignition threshold"
+          ],
+          "missingConcepts": [
+            "Vapor flash ignition"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 2.5,
+          "teacherFeedback": "Acceptable answer.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 4,
+          "question": "Draw and explain the ray diagram for reflection of light from a smooth plane surface.",
+          "topic": "Light",
+          "maxMarks": 5,
+          "studentAnswer": "Rough sketch of reflection with angle i and r shown.",
+          "aiMark": 3,
+          "aiConfidence": 70,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Basic diagram present but labels imperfect.",
+          "correctConcepts": [
+            "Reflection rays shown",
+            "Angles labeled"
+          ],
+          "missingConcepts": [
+            "Clean normal line",
+            "Rays arrowheads"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Diagram is rough.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 5,
+          "question": "Distinguish between metals and non-metals based on physical properties.",
+          "topic": "Materials: Metals and Non-Metals",
+          "maxMarks": 5,
+          "studentAnswer": "Metals: malleable, ductile, good conductors. Non-metals: brittle, poor conductors.",
+          "aiMark": 3.5,
+          "aiConfidence": 48,
+          "confidenceLevel": "Low",
+          "needsTeacherReview": true,
+          "aiFeedback": "⚠ Low Confidence — Teacher Review Required: Student handwriting on page 3 is faint and partially smudged. AI detected basic distinctions but teacher review is essential.",
+          "correctConcepts": [
+            "Malleability",
+            "Electrical conductivity"
+          ],
+          "missingConcepts": [
+            "Sonorous nature",
+            "Detailed physical state"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 4,
+          "teacherFeedback": "Inspected paper directly; student clearly wrote malleable, ductile, conductors, and sonorous. Awarded 4.0.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 6,
+          "question": "Describe the process of binary fission in Amoeba with key stages.",
+          "topic": "Reproduction in Animals",
+          "maxMarks": 4,
+          "studentAnswer": "Amoeba divides nucleus then divides cytoplasm into two cells.",
+          "aiMark": 2.5,
+          "aiConfidence": 52,
+          "confidenceLevel": "Low",
+          "needsTeacherReview": true,
+          "aiFeedback": "⚠ Low Confidence — Teacher Review Required: Light ink stroke scan caused low confidence in transcription of line 2.",
+          "correctConcepts": [
+            "Nucleus divides first",
+            "Cytoplasm splits into two"
+          ],
+          "missingConcepts": [
+            "Diagram or stages labeling"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 3,
+          "teacherFeedback": "Handwriting readable in natural light; both stages accurately identified. 3.0 awarded.",
+          "teacherValidated": true
+        },
+        {
+          "qNum": 7,
+          "question": "What is acid rain? Mention its harmful effects on historical monuments and soil.",
+          "topic": "Pollution of Air and Water",
+          "maxMarks": 4,
+          "studentAnswer": "Rain with toxic acids caused by factory smoke. Destroys marble statues and ruins farmer fields.",
+          "aiMark": 2.5,
+          "aiConfidence": 78,
+          "confidenceLevel": "Medium",
+          "needsTeacherReview": false,
+          "aiFeedback": "Understands environmental degradation; lacks chemical species naming.",
+          "correctConcepts": [
+            "Acidic deposition",
+            "Marble monument damage",
+            "Soil fertility harm"
+          ],
+          "missingConcepts": [
+            "SO2 and NO2 naming"
+          ],
+          "incorrectConcepts": [],
+          "teacherMark": 2.5,
+          "teacherFeedback": "Fair mark for conversational answer.",
+          "teacherValidated": true
+        }
+      ],
+      "accuracyMetrics": {
+        "totalAiMarks": 21.5,
+        "totalTeacherMarks": 23,
+        "totalMaxMarks": 30,
+        "difference": 1.5,
+        "exactAgreementPct": 71.4,
+        "mae": 0.29,
+        "overallMarkAgreementPct": 94.2
+      },
+      "status": "Completed",
+      "createdAt": "2026-09-20T10:40:00Z",
+      "updatedAt": "2026-09-20T11:15:00Z"
+    }
+  ]
+}

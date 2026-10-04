@@ -1,0 +1,8 @@
+{
+  "name": "AI Examination Evaluator",
+  "description": "Syllabus-context-based AI evaluation of descriptive student answers with accuracy benchmarking against teacher ground truth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
